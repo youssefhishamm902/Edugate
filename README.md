@@ -1,0 +1,2 @@
+# Edugate
+School management system 
